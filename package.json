@@ -1,0 +1,23 @@
+{
+  "name": "atividade3-2",
+  "version": "1.0.0",
+  "description": "\"Aplicacao da aula\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcbampi/Atividade3-2.git"
+  },
+  "author": "Paulo Cesar Bampi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcbampi/Atividade3-2/issues"
+  },
+  "homepage": "https://github.com/pcbampi/Atividade3-2#readme",
+  "keywords": [
+    "aula",
+    "teste"
+  ]
+}
